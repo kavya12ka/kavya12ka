@@ -5,7 +5,7 @@
 <!-- ![Banner](./banner.png) -->
 
 **Kavya K Vinay**
-Data Analyst | Data Analytics Professional | SQL & Python Developer
+Data Analyst | SQL | Python | Power BI | Excel | Data Visualization | EDA |
 
 📧 kavya12ka@gmail.com &nbsp;|&nbsp; GitHub @kavya12ka
 
@@ -21,7 +21,7 @@ Hello, I'm Kavya. A Data Analyst with a B.Tech in Electronics & Communication En
 
 ## 📁 Projects
 
-Welcome to my portfolio, where I showcase my [projects](./https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/README.md).
 
 ## 🛠 Tools
 
@@ -32,6 +32,6 @@ Welcome to my portfolio, where I showcase my [projects](./https://github.com/kav
 
 ## 🌐 Connect with Me
 
-- [www.linkedin.com/in/kavya-k-v](#) <!-- add your LinkedIn URL -->
+- [LinkedIn](www.linkedin.com/in/kavya-k-v) <!-- add your LinkedIn URL -->
 - 📞 9946431245
 
