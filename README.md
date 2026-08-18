@@ -21,7 +21,7 @@ Hello, I'm Kavya. A Data Analyst with a B.Tech in Electronics & Communication En
 
 ## 📁 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/Readme.md).
 
 ## 🛠 Tools
 
