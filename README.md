@@ -21,14 +21,14 @@ Hello, I'm Kavya. A Data Analyst with a B.Tech in Electronics & Communication En
 
 ## 📁 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/Readme.md).
+Welcome to my portfolio, where I showcase my [Data Analytics Projects](https://github.com/kavya12ka/Data-Analysis-Projects/blob/main/Readme.md) and [Machine Learning Projects](https://github.com/kavya12ka/Machine-Learning-Projects-Portfolio)
 
 ## 🛠 Tools
 
 - **Language:** Python, SQL
 - **Database:** MySQL
 - **Visualization:** Power BI, Excel (Pivot Tables)
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, Scikit-Learn
 
 ## 🌐 Connect with Me
 
