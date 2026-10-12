@@ -1,6 +1,6 @@
 ### 👋 Introducing Myself
 
-<img src="./banner.png" alt="Kavya K Vinay - Data Analyst | Data Scientist | AI/ML Engineer" width="100%" />
+<img width="1600" height="400" alt="banner1" src="https://github.com/user-attachments/assets/6992d308-926b-488f-9abf-4a53a2a71c9c" />
 
 **Kavya K Vinay**
 Data Analyst | Data Scientist | AI/ML Engineer
